@@ -1,0 +1,21 @@
+{
+    "tabWidth": 4,
+    "semi": false,
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "htmlWhitespaceSensitivity": "css",
+    "printWidth": 80,
+    "proseWrap": "preserve",
+    "requirePragma": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSameLine": true,
+    "overrides": [
+        {
+            "files": "*.json",
+            "options": {
+                "printWidth": 200
+            }
+        }
+    ]
+}
